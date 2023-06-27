@@ -1,8 +1,9 @@
-# Ping-Pong
+#  🚀 Ping-Pong 🚀
 
-## Projeto criado através do curso JavaScript Moderno da DevSamurai. <br>
 
-Tive a oportunidade de entender melhor sobre objetos e classes enquanto desenvolvia este jogo de Ping-Pong. <br>
+## ⚙️ Project created through the Modern JavaScript course by DevSamurai. I used HTML for the structure, along with CANVA, CSS for styling, and JavaScript to create the entire game logic, which is player vs computer. ⚙️ <br>
 
-Link do jogo: <br>
+### 📚 I had the opportunity to better understand objects and classes while developing this Ping-Pong game. 📚 <br
+
+### 🖥️ Game link: 🖥️ <br>
 https://ping-pong-kaique-medeiros.netlify.app/
